@@ -1,75 +1,219 @@
-  AI Tools Directory :root { --bg-color: #0f172a; --card-bg: #1e293b; --accent-color: #38bdf8; --text-main: #f1f5f9; --text-dim: #94a3b8; } body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: var(--bg-color); color: var(--text-main); margin: 0; padding: 40px 20px; line-height: 1.6; } .container { max-width: 1200px; margin: 0 auto; } header { text-align: center; margin-bottom: 50px; } h1 { font-size: 2.5rem; color: var(--accent-color); margin-bottom: 10px; } .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; } .category-card { background-color: var(--card-bg); border-radius: 12px; padding: 20px; border: 1px solid #334155; transition: transform 0.3s ease, border-color 0.3s ease; } .category-card:hover { transform: translateY(-5px); border-color: var(--accent-color); } .category-title { font-size: 1.2rem; font-weight: bold; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid #334155; padding-bottom: 10px; color: var(--accent-color); } ul { list-style: none; padding: 0; margin: 0; } li { margin-bottom: 8px; } a { color: var(--text-dim); text-decoration: none; font-size: 0.95rem; transition: color 0.2s; } a:hover { color: white; text-decoration: underline; } .badge { background: #0ea5e9; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 10px; margin-left: 5px; vertical-align: middle; }
+ AI Tools Directory  
 
-🚀 Ultimate AI Tools Hub
-========================
+🚀 AI Tools Directory
+=====================
 
-Curated list of the world's best AI and Productivity resources.
+🤖 AI Chat / LLMs / Assistants
+------------------------------
 
-🤖 AI Chat / LLMs
+Tool
 
-*   [ChatGPT](https://chat.openai.com)
-*   [Claude](https://claude.ai)
-*   [Perplexity](https://www.perplexity.ai)
-*   [Grok (x.ai)](https://x.ai)
-*   [NotebookLM](https://notebooklm.google)
-*   [Krisp AI](https://krisp.ai)
+Website
 
-🎨 Image Generation
+Use
 
-*   [Leonardo.ai](https://leonardo.ai)
-*   [Midjourney](https://midjourney.com)
-*   [Playground AI](https://playgroundai.com)
-*   [Remove.bg](https://remove.bg)
-*   [Photopea](https://photopea.com)
-*   [Cleanup.pictures](https://cleanup.pictures)
+ChatGPT
 
-🎥 Video & Animation
+[chat.openai.com](https://chat.openai.com)
 
-*   [RunwayML](https://runwayml.com)
-*   [Pika Art](https://pika.art)
-*   [HeyGen](https://heygen.com)
-*   [Synthesia](https://synthesia.io)
-*   [InVideo](https://invideo.io)
-*   [MiniMax Video](https://minimax.video)
+AI chat, coding, writing
 
-🎙️ Voice & Audio
+Claude
 
-*   [ElevenLabs](https://elevenlabs.io)
-*   [Play.ht](https://play.ht)
-*   [Murf.ai](https://murf.ai)
-*   [Natural Readers](https://naturalreaders.com)
+[claude.ai](https://claude.ai)
 
-🧑‍💻 Developer Tools
+Long documents & reasoning
 
-*   [Cursor](https://cursor.sh)
-*   [GitHub Copilot](https://github.com/copilot)
-*   [Replit](https://replit.com)
-*   [v0.dev](https://v0.dev)
-*   [Phind](https://phind.com)
+Perplexity
 
-📝 Content & Writing
+[perplexity.ai](https://www.perplexity.ai)
 
-*   [Writesonic](https://writesonic.com)
-*   [Jasper](https://jasper.ai)
-*   [Copy.ai](https://copy.ai)
-*   [Quillbot](https://quillbot.com)
+AI search with sources
 
-📊 Slides & Design
+Grok
 
-*   [Gamma App](https://gamma.app)
-*   [Canva](https://canva.com)
-*   [Tome](https://tome.app)
-*   [Beautiful.ai](https://beautiful.ai)
+[x.ai](https://x.ai)
 
-🧠 Productivity
+Real-time AI chat
 
-*   [Notion](https://notion.so)
-*   [Zapier](https://zapier.com)
-*   [Make.com](https://make.com)
-*   [Otter.ai](https://otter.ai)
+NotebookLM
 
-🔍 AI Directories
+[notebooklm.google](https://notebooklm.google)
 
-*   [There's An AI For That](https://theresanaiforthat.com)
-*   [Futurepedia](https://futurepedia.io)
-*   [AI Tools FYI](https://aitools.fyi)
+Research & notes
+
+LlamaIndex
+
+[llamaindex.ai](https://llamaindex.ai)
+
+AI apps on own data
+
+Krisp
+
+[krisp.ai](https://krisp.ai)
+
+Noise cancellation
+
+Microsoft Clarity
+
+[clarity.microsoft.com](https://clarity.microsoft.com)
+
+User behavior analytics
+
+🎨 Image Generation / Image AI
+------------------------------
+
+Tool
+
+Website
+
+Use
+
+Leonardo AI
+
+[leonardo.ai](https://leonardo.ai)
+
+AI art & assets
+
+Playground AI
+
+[playgroundai.com](https://playgroundai.com)
+
+Image generation
+
+Pixlr
+
+[pixlr.com](https://pixlr.com)
+
+Online photo editor
+
+Pixelcut
+
+[pixelcut.ai](https://pixelcut.ai)
+
+Product images
+
+Remove.bg
+
+[remove.bg](https://remove.bg)
+
+Background removal
+
+Photopea
+
+[photopea.com](https://photopea.com)
+
+Photoshop alternative
+
+Midjourney
+
+[midjourney.com](https://midjourney.com)
+
+High-quality AI art
+
+🎥 Video AI / Text to Video
+---------------------------
+
+Tool
+
+Website
+
+Use
+
+Runway
+
+[runwayml.com](https://runwayml.com)
+
+AI video editing
+
+Pika
+
+[pika.art](https://pika.art)
+
+Text to video
+
+InVideo
+
+[invideo.io](https://invideo.io)
+
+YouTube & ads
+
+Synthesia
+
+[synthesia.io](https://synthesia.io)
+
+AI avatar videos
+
+Descript
+
+[descript.com](https://descript.com)
+
+Podcast & video edit
+
+🎙️ Voice AI / Text to Speech
+-----------------------------
+
+Tool
+
+Website
+
+Use
+
+ElevenLabs
+
+[elevenlabs.io](https://elevenlabs.io)
+
+Realistic AI voice
+
+Murf
+
+[murf.ai](https://murf.ai)
+
+Voiceover
+
+Play.ht
+
+[play.ht](https://play.ht)
+
+Text to speech
+
+Natural Readers
+
+[naturalreaders.com](https://naturalreaders.com)
+
+Read text aloud
+
+🧑‍💻 Code AI / Developer Tools
+-------------------------------
+
+Tool
+
+Website
+
+Use
+
+GitHub Copilot
+
+[github.com/copilot](https://github.com/copilot)
+
+AI coding assistant
+
+Replit
+
+[replit.com](https://replit.com)
+
+Online IDE
+
+Cursor
+
+[cursor.sh](https://cursor.sh)
+
+AI code editor
+
+CodeSandbox
+
+[codesandbox.io](https://codesandbox.io)
+
+Frontend dev
+
+© 2025 AI Tools Directory
