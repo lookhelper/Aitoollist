@@ -1,219 +1,102 @@
- AI Tools Directory  
+  AI & Productivity Tools Directory  
 
-🚀 AI Tools Directory
+AI Universe Directory
 =====================
 
-🤖 AI Chat / LLMs / Assistants
-------------------------------
+A curated ecosystem of artificial intelligence tools
 
-Tool
+Chat / LLMs
 
-Website
+[ChatGPT](https://chat.openai.com)Visit
 
-Use
+[Claude AI](https://claude.ai)Visit
 
-ChatGPT
+[Perplexity](https://www.perplexity.ai)Visit
 
-[chat.openai.com](https://chat.openai.com)
+[Grok](https://x.ai)Visit
 
-AI chat, coding, writing
+[NotebookLM](https://notebooklm.google)Visit
 
-Claude
+Image AI
 
-[claude.ai](https://claude.ai)
+[Midjourney](https://midjourney.com)Visit
 
-Long documents & reasoning
+[Leonardo.ai](https://leonardo.ai)Visit
 
-Perplexity
+[Playground AI](https://playgroundai.com)Visit
 
-[perplexity.ai](https://www.perplexity.ai)
+[Remove.bg](https://remove.bg)Visit
 
-AI search with sources
+[Photopea](https://photopea.com)Visit
 
-Grok
+Video & Animation
 
-[x.ai](https://x.ai)
+[RunwayML](https://runwayml.com)Visit
 
-Real-time AI chat
+[Pika.art](https://pika.art)Visit
 
-NotebookLM
+[HeyGen](https://heygen.com)Visit
 
-[notebooklm.google](https://notebooklm.google)
+[InVideo](https://invideo.io)Visit
 
-Research & notes
+[MiniMax](https://minimax.video)Visit
 
-LlamaIndex
+Voice & Audio
 
-[llamaindex.ai](https://llamaindex.ai)
+[ElevenLabs](https://elevenlabs.io)Visit
 
-AI apps on own data
+[Play.ht](https://play.ht)Visit
 
-Krisp
+[Murf.ai](https://murf.ai)Visit
 
-[krisp.ai](https://krisp.ai)
+[Natural Readers](https://naturalreaders.com)Visit
 
-Noise cancellation
+Developer Tools
 
-Microsoft Clarity
+[Cursor](https://cursor.sh)Visit
 
-[clarity.microsoft.com](https://clarity.microsoft.com)
+[GitHub Copilot](https://github.com/copilot)Visit
 
-User behavior analytics
+[v0.dev](https://v0.dev)Visit
 
-🎨 Image Generation / Image AI
-------------------------------
+[Replit](https://replit.com)Visit
 
-Tool
+Writing / Copy
 
-Website
+[Writesonic](https://writesonic.com)Visit
 
-Use
+[Jasper](https://jasper.ai)Visit
 
-Leonardo AI
+[Copy.ai](https://copy.ai)Visit
 
-[leonardo.ai](https://leonardo.ai)
+[Quillbot](https://quillbot.com)Visit
 
-AI art & assets
+Slides & Design
 
-Playground AI
+[Gamma App](https://gamma.app)Visit
 
-[playgroundai.com](https://playgroundai.com)
+[Canva](https://canva.com)Visit
 
-Image generation
+[Tome](https://tome.app)Visit
 
-Pixlr
+[Pitch](https://pitch.com)Visit
 
-[pixlr.com](https://pixlr.com)
+Automation
 
-Online photo editor
+[Notion](https://notion.so)Visit
 
-Pixelcut
+[Zapier](https://zapier.com)Visit
 
-[pixelcut.ai](https://pixelcut.ai)
+[Make.com](https://make.com)Visit
 
-Product images
+[Taskade](https://taskade.com)Visit
 
-Remove.bg
+Directories
 
-[remove.bg](https://remove.bg)
+[TAAFT](https://theresanaiforthat.com)Visit
 
-Background removal
+[Futurepedia](https://futurepedia.io)Visit
 
-Photopea
+[AllThingsAI](https://allthingsai.com)Visit
 
-[photopea.com](https://photopea.com)
-
-Photoshop alternative
-
-Midjourney
-
-[midjourney.com](https://midjourney.com)
-
-High-quality AI art
-
-🎥 Video AI / Text to Video
----------------------------
-
-Tool
-
-Website
-
-Use
-
-Runway
-
-[runwayml.com](https://runwayml.com)
-
-AI video editing
-
-Pika
-
-[pika.art](https://pika.art)
-
-Text to video
-
-InVideo
-
-[invideo.io](https://invideo.io)
-
-YouTube & ads
-
-Synthesia
-
-[synthesia.io](https://synthesia.io)
-
-AI avatar videos
-
-Descript
-
-[descript.com](https://descript.com)
-
-Podcast & video edit
-
-🎙️ Voice AI / Text to Speech
------------------------------
-
-Tool
-
-Website
-
-Use
-
-ElevenLabs
-
-[elevenlabs.io](https://elevenlabs.io)
-
-Realistic AI voice
-
-Murf
-
-[murf.ai](https://murf.ai)
-
-Voiceover
-
-Play.ht
-
-[play.ht](https://play.ht)
-
-Text to speech
-
-Natural Readers
-
-[naturalreaders.com](https://naturalreaders.com)
-
-Read text aloud
-
-🧑‍💻 Code AI / Developer Tools
--------------------------------
-
-Tool
-
-Website
-
-Use
-
-GitHub Copilot
-
-[github.com/copilot](https://github.com/copilot)
-
-AI coding assistant
-
-Replit
-
-[replit.com](https://replit.com)
-
-Online IDE
-
-Cursor
-
-[cursor.sh](https://cursor.sh)
-
-AI code editor
-
-CodeSandbox
-
-[codesandbox.io](https://codesandbox.io)
-
-Frontend dev
-
-© 2025 AI Tools Directory
+© 2025 AI Directory Hub | Created for efficient workflow
