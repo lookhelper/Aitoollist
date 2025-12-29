@@ -1,102 +1,235 @@
-  AI & Productivity Tools Directory  
+🤖 AI CHAT / LLMs / ASSISTANTS
 
-AI Universe Directory
-=====================
+https://chat.openai.com
+ (ChatGPT)
 
-A curated ecosystem of artificial intelligence tools
+https://claude.ai
 
-Chat / LLMs
+https://www.perplexity.ai
 
-[ChatGPT](https://chat.openai.com)Visit
+https://x.ai
+ (Grok)
 
-[Claude AI](https://claude.ai)Visit
+https://notebooklm.google
 
-[Perplexity](https://www.perplexity.ai)Visit
+https://llamaindex.ai
 
-[Grok](https://x.ai)Visit
+https://krisp.ai
 
-[NotebookLM](https://notebooklm.google)Visit
+https://clarity.microsoft.com
 
-Image AI
+🎨 IMAGE GENERATION / IMAGE AI
 
-[Midjourney](https://midjourney.com)Visit
+https://leonardo.ai
 
-[Leonardo.ai](https://leonardo.ai)Visit
+https://playgroundai.com
 
-[Playground AI](https://playgroundai.com)Visit
+https://pixlr.com
 
-[Remove.bg](https://remove.bg)Visit
+https://pixelcut.ai
 
-[Photopea](https://photopea.com)Visit
+https://remove.bg
 
-Video & Animation
+https://cleanup.pictures
 
-[RunwayML](https://runwayml.com)Visit
+https://imglarger.com
 
-[Pika.art](https://pika.art)Visit
+https://photopea.com
 
-[HeyGen](https://heygen.com)Visit
+https://midjourney.com
 
-[InVideo](https://invideo.io)Visit
+https://stability.ai
 
-[MiniMax](https://minimax.video)Visit
+https://magicstudio.com
 
-Voice & Audio
+🎥 VIDEO AI / TEXT TO VIDEO / ANIMATION
 
-[ElevenLabs](https://elevenlabs.io)Visit
+https://runwayml.com
 
-[Play.ht](https://play.ht)Visit
+https://pika.art
 
-[Murf.ai](https://murf.ai)Visit
+https://haiper.ai
 
-[Natural Readers](https://naturalreaders.com)Visit
+https://kaiber.ai
 
-Developer Tools
+https://invideo.io
 
-[Cursor](https://cursor.sh)Visit
+https://lumen5.com
 
-[GitHub Copilot](https://github.com/copilot)Visit
+https://veed.io
 
-[v0.dev](https://v0.dev)Visit
+https://synthesia.io
 
-[Replit](https://replit.com)Visit
+https://heygen.com
 
-Writing / Copy
+https://descript.com
 
-[Writesonic](https://writesonic.com)Visit
+https://topazlabs.com
 
-[Jasper](https://jasper.ai)Visit
+https://vozo.ai
 
-[Copy.ai](https://copy.ai)Visit
+https://minimax.video
 
-[Quillbot](https://quillbot.com)Visit
+🎙️ VOICE AI / TEXT TO SPEECH / AUDIO
 
-Slides & Design
+https://elevenlabs.io
 
-[Gamma App](https://gamma.app)Visit
+https://play.ht
 
-[Canva](https://canva.com)Visit
+https://murf.ai
 
-[Tome](https://tome.app)Visit
+https://lovo.ai
 
-[Pitch](https://pitch.com)Visit
+https://resemble.ai
 
-Automation
+https://ttsfree.com
 
-[Notion](https://notion.so)Visit
+https://naturalreaders.com
 
-[Zapier](https://zapier.com)Visit
+https://audioread.ai
 
-[Make.com](https://make.com)Visit
+🧑‍💻 CODE AI / DEVELOPER TOOLS
 
-[Taskade](https://taskade.com)Visit
+https://github.com/copilot
 
-Directories
+https://replit.com
 
-[TAAFT](https://theresanaiforthat.com)Visit
+https://cursor.sh
 
-[Futurepedia](https://futurepedia.io)Visit
+https://codesandbox.io
 
-[AllThingsAI](https://allthingsai.com)Visit
+https://crewsade.com
 
-© 2025 AI Directory Hub | Created for efficient workflow
+https://codeium.com
+
+https://phind.com
+
+https://v0.dev
+
+📝 WRITING / CONTENT / COPY AI
+
+https://writesonic.com
+
+https://rytr.me
+
+https://copy.ai
+
+https://anyword.com
+
+https://jasper.ai
+
+https://quillbot.com
+
+https://wordtune.com
+
+📊 PRESENTATION / SLIDES / DESIGN
+
+https://gamma.app
+
+https://beautiful.ai
+
+https://tome.app
+
+https://canva.com
+
+https://visme.co
+
+https://pitch.com
+
+https://adobe.com/express
+
+📁 PDF / FILE / DOCUMENT TOOLS
+
+https://ilovepdf.com
+
+https://smallpdf.com
+
+https://pdf24.org
+
+https://docsumo.com
+
+https://simplepdf.eu
+
+https://cloudconvert.com
+
+📈 SEO / MARKETING / ADS
+
+https://ahrefs.com
+
+https://semrush.com
+
+https://spyfu.com
+
+https://ubersuggest.com
+
+https://adcreative.ai
+
+https://ocoya.com
+
+https://hypotenuse.ai
+
+🌐 WEBSITE / NO-CODE / UI-UX
+
+https://webflow.com
+
+https://wix.com
+
+https://framer.com
+
+https://dorik.com
+
+https://typedream.com
+
+https://uiblocks.io
+
+https://ui8.net
+
+https://v0.dev
+
+🧑‍💼 RESUME / JOB / REMOTE WORK
+
+https://resume.io
+
+https://rxresume.com
+
+https://jobscan.co
+
+https://remoteok.com
+
+https://remotive.com
+
+https://weworkremotely.com
+
+https://fiverr.com
+
+https://upwork.com
+
+🧠 PRODUCTIVITY / NOTES / AUTOMATION
+
+https://notion.so
+
+https://zapier.com
+
+https://make.com
+
+https://taskade.com
+
+https://otter.ai
+
+https://onepost.io
+
+⌨️ TYPING / SKILLS
+
+https://play.typeracer.com
+
+https://www.keybr.com
+
+🔍 ALL-IN-ONE AI DIRECTORIES
+
+https://theresanaiforthat.com
+
+https://futurepedia.io
+
+https://aitools.fyi
+
+https://allthingsai.com
