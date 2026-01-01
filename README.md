@@ -233,3 +233,17 @@ https://futurepedia.io
 https://aitools.fyi
 
 https://allthingsai.com
+
+https://aichief.com/
+
+-------------------------------
+
+https://github.com/UnsecuredAPIKeys-com/UnsecuredAPIKeys.Lite
+
+Oboe — the easiest way to learn - https://oboe.com/
+
+Light pdf - https://lightpdf.com/
+
+https://app.emergent.sh/landing/v2/
+
+https://tile.dev/
